@@ -14,9 +14,9 @@ public class DataType {
 		System.out.println(ten) ;
 		
 		String twenty = "20" ;
-		String twenty_four = "24" ;
-		String two_thousand_twenty_four = twenty + twenty_four ;
-		System.out.println(two_thousand_twenty_four) ;
+		String twentyFour = "24" ;
+		String twoThousandTwentyFour = twenty + twentyFour ;
+		System.out.println(twoThousandTwentyFour) ;
 		
 		double pi = 3.14 ;
 		System.out.println(pi) ;
