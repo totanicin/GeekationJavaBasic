@@ -3,6 +3,7 @@ package basicSyntax;
 public class IfSwitch {
 
     public static void main(String[] args) {
+        // int型変数numの定義と値の代入
         int num = 8;
         if (num % 2 == 0) {
             System.out.println("2の倍数です。");
@@ -12,6 +13,7 @@ public class IfSwitch {
             System.out.println("どちらでもありません。");
         }
         
+        // String型変数prefの定義と値の代入
         String pref = "京都";
         switch (pref) {
             case "北海":
